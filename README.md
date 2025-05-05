@@ -1,12 +1,12 @@
-  ![Snake animation](https://raw.githubusercontent.com/alof2004/alof2004/output/github-contribution-grid-snake-dark.svg)<table>
+  ![Snake animation](https://raw.githubusercontent.com/FunnyJoaoneto/FunnyJoaoneto/output/github-contribution-grid-snake-dark.svg)<table>
   <tr>
     <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=alof2004&show_icons=true&theme=dark#gh-dark-mode-only" /><br>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=FunnyJoaoneto&show_icons=true&theme=dark#gh-dark-mode-only" /><br>
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alof2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyJoaoneto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -14,7 +14,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=alof2004&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=FunnyJoaoneto&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -32,7 +32,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=alof2004&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=FunnyJoaoneto&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -45,7 +45,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/alof2004/count.svg"
+    src="https://profile-counter.glitch.me/FunnyJoaoneto/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
